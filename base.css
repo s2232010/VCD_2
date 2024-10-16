@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body h1{
+    color: #F88108;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.key{
+    color: #F3F8E0;
+    background-color: #0046F9;
+    font-size: x-large;
+}
+body p img{
+    border: 10px dotted #00FA43;
+}
+body{
+    background: url(leaf.jpg)
+}
